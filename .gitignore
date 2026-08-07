@@ -1,0 +1,21 @@
+# --- medical image files: patient data must NEVER go to GitHub ---
+*.nii.gz
+*.nii
+*.mha
+*.dcm
+
+# --- big binary files: model weights and processed arrays ---
+*.pth
+*.npz
+*.npy
+*.zip
+
+# --- machine-generated folders we don't want in git ---
+nnUNet_raw/
+nnUNet_preprocessed/
+nnUNet_results/
+__pycache__/
+.DS_Store
+
+# --- secrets like passwords or AWS keys ---
+.env
