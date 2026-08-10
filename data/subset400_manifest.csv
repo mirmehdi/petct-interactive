@@ -1,0 +1,398 @@
+case_id,tracer,patient_id,empty,burden_voxels
+fdg_0011f3deaf_03-23-2003-NA-PET-CT Ganzkoerper  primaer mit KM-10445,fdg,0011f3deaf,False,1299
+fdg_04606080a0_02-20-2003-NA-PET-CT Ganzkoerper  primaer mit KM-22538,fdg,04606080a0,False,9518
+fdg_05bed31780_11-24-2003-NA-PET-CT Ganzkoerper  primaer mit KM-09401,fdg,05bed31780,True,0
+fdg_07574bfa00_04-20-2003-NA-PET-CT Ganzkoerper  primaer mit KM-91235,fdg,07574bfa00,False,50629
+fdg_07b7e9abfc_02-10-2003-NA-PET-CT Ganzkoerper nativ-08717,fdg,07b7e9abfc,True,0
+fdg_08198c4f0c_11-10-2005-NA-PET-CT Ganzkoerper  primaer mit KM-57428,fdg,08198c4f0c,True,0
+fdg_08cdb15e0b_11-21-2003-NA-PET-CT Ganzkoerper  primaer mit KM-47234,fdg,08cdb15e0b,False,4917
+fdg_098c4b7b87_08-31-2003-NA-PET-CT Ganzkoerper nativ-71743,fdg,098c4b7b87,True,0
+fdg_099b3fd402_01-03-2003-NA-PET-CT Ganzkoerper nativ-84728,fdg,099b3fd402,False,929
+fdg_09ee00bdc6_09-30-2005-NA-PET-CT Ganzkoerper  primaer mit KM-22800,fdg,09ee00bdc6,False,6190
+fdg_0cda25453b_10-12-2003-NA-PET-CT Ganzkoerper  primaer mit KM-47333,fdg,0cda25453b,False,18170
+fdg_0ea07b421b_10-27-2001-NA-PET-CT Ganzkoerper  primaer mit KM-81811,fdg,0ea07b421b,False,46692
+fdg_0f44cec2e6_09-07-2003-NA-PET-CT Ganzkoerper  primaer mit KM-99224,fdg,0f44cec2e6,False,454
+fdg_11afab3485_05-25-2003-NA-PET-CT Ganzkoerper  primaer mit KM-50146,fdg,11afab3485,False,207
+fdg_11e258cc1f_03-06-2003-NA-PET-CT Ganzkoerper  primaer mit KM-87979,fdg,11e258cc1f,False,23466
+fdg_12025abab5_11-01-2004-NA-PET-CT Ganzkoerper  primaer mit KM-18831,fdg,12025abab5,False,587
+fdg_141fffa2a9_03-01-2003-NA-PET-CT Ganzkoerper nativ-74292,fdg,141fffa2a9,True,0
+fdg_147a9fcff3_08-16-2001-NA-PET-CT Ganzkoerper  primaer mit KM-80653,fdg,147a9fcff3,False,23418
+fdg_15a205ffcc_08-19-2005-NA-PET-CT Ganzkoerper  primaer mit KM-93089,fdg,15a205ffcc,False,128920
+fdg_173b804eda_10-11-2004-NA-PET-CT Ganzkoerper nativ-64205,fdg,173b804eda,True,0
+fdg_17b46d7275_11-13-2003-NA-PET-CT Teilkoerper  primaer mit KM-01963,fdg,17b46d7275,True,0
+fdg_185bac7954_01-22-2005-NA-PET-CT Ganzkoerper  primaer mit KM-96761,fdg,185bac7954,True,0
+fdg_185da4c8b6_04-18-2003-NA-PET-CT Ganzkoerper  primaer mit KM-06919,fdg,185da4c8b6,False,3741
+fdg_1956667fce_02-10-2006-NA-PET-CT Ganzkoerper  primaer mit KM-90464,fdg,1956667fce,True,0
+fdg_1956667fce_07-28-2005-NA-PET-CT Ganzkoerper  primaer mit KM-69901,fdg,1956667fce,False,67840
+fdg_1b199d094d_03-16-2002-NA-PET-CT Ganzkoerper  primaer mit KM-32644,fdg,1b199d094d,False,309
+fdg_1b1bdfc35b_10-29-2000-NA-PET-CT Ganzkoerper  primaer mit KM-59300,fdg,1b1bdfc35b,False,12826
+fdg_1bdefef7d5_01-14-2006-NA-PET-CT Ganzkoerper  primaer mit KM-32502,fdg,1bdefef7d5,True,0
+fdg_1e43e3d692_09-19-2002-NA-PET-CT Ganzkoerper  primaer mit KM-73301,fdg,1e43e3d692,True,0
+fdg_1f2a4f4280_06-12-2005-NA-PET-CT Ganzkoerper  primaer mit KM-46988,fdg,1f2a4f4280,True,0
+fdg_1f2a4f4280_12-20-2002-NA-PET-CT Ganzkoerper  primaer mit KM-44694,fdg,1f2a4f4280,True,0
+fdg_1f65acff65_05-06-2007-NA-PET-CT Ganzkoerper nativ u. mit KM-95034,fdg,1f65acff65,False,39
+fdg_1f6b6b0548_10-16-2003-NA-PET-CT Ganzkoerper  primaer mit KM-05707,fdg,1f6b6b0548,False,98
+fdg_1fcfa34d10_09-19-2003-NA-PET-CT Ganzkoerper  primaer mit KM-71511,fdg,1fcfa34d10,False,12399
+fdg_2122b88719_09-09-2006-NA-Unspecified CT-98490,fdg,2122b88719,True,0
+fdg_2202a936e0_05-31-2002-NA-PET-CT Ganzkoerper  primaer mit KM-73351,fdg,2202a936e0,False,6991
+fdg_22d07bdc49_01-05-2003-NA-PET-CT Ganzkoerper  primaer mit KM-77260,fdg,22d07bdc49,False,1152
+fdg_24cb79a92b_04-13-2003-NA-PET-CT Ganzkoerper nativ-59029,fdg,24cb79a92b,True,0
+fdg_265c26907a_11-10-2005-NA-PET-CT Ganzkoerper  primaer mit KM-06968,fdg,265c26907a,True,0
+fdg_28a0a0a163_10-22-2004-NA-PET-CT Ganzkoerper  primaer mit KM-34619,fdg,28a0a0a163,True,0
+fdg_2946d59a94_11-06-2006-NA-PET-CT Ganzkoerper nativ-66800,fdg,2946d59a94,True,0
+fdg_29b372cb99_11-17-2006-NA-PET-CT Ganzkoerper  primaer mit KM-23417,fdg,29b372cb99,True,0
+fdg_2a6f4f0753_07-31-2003-NA-PET-CT Ganzkoerper  primaer mit KM-21938,fdg,2a6f4f0753,False,46
+fdg_2d9638360e_09-09-2005-NA-PET-CT Ganzkoerper  primaer mit KM-19870,fdg,2d9638360e,True,0
+fdg_2e44706eaf_05-06-2005-NA-PET-CT Ganzkoerper  primaer mit KM-03974,fdg,2e44706eaf,False,14693
+fdg_2f587d00b1_09-27-2004-NA-Unspecified CT-22169,fdg,2f587d00b1,True,0
+fdg_30001118d0_04-03-1999-NA-PET-CT Ganzkoerper  primaer mit KM-62786,fdg,30001118d0,False,199437
+fdg_30c4b7062b_01-18-2001-NA-PET-CT Ganzkoerper  primaer mit KM-73893,fdg,30c4b7062b,False,72999
+fdg_31ddf5013a_02-22-2001-NA-PET-CT Ganzkoerper  primaer mit KM-04471,fdg,31ddf5013a,False,7186
+fdg_32aa845af1_01-26-2007-NA-PET-CT Ganzkoerper  primaer mit KM-03437,fdg,32aa845af1,False,229
+fdg_32aa845af1_06-15-2007-NA-PET-CT Ganzkoerper  primaer mit KM-95846,fdg,32aa845af1,False,7128
+fdg_3481507253_06-17-2007-NA-PET-CT Ganzkoerper  primaer mit KM-41462,fdg,3481507253,True,0
+fdg_34d3efa936_10-22-2004-NA-PET-CT Ganzkoerper  primaer mit KM-73875,fdg,34d3efa936,True,0
+fdg_350e91119a_10-23-2005-NA-PET-CT Ganzkoerper  primaer mit KM-47863,fdg,350e91119a,False,5442
+fdg_35de69968e_10-27-2006-NA-PET-CT Ganzkoerper  primaer mit KM-24640,fdg,35de69968e,True,0
+fdg_36870de2f2_05-14-2006-NA-PET-CT Ganzkoerper  primaer mit KM-20980,fdg,36870de2f2,False,83
+fdg_3708f576ec_03-08-2002-NA-PET-CT Ganzkoerper  primaer mit KM-02034,fdg,3708f576ec,False,6523
+fdg_37472e737f_06-20-2003-NA-PET-CT Ganzkoerper  primaer mit KM-10464,fdg,37472e737f,False,2875
+fdg_39eca178a1_06-08-2003-NA-PET-CT Ganzkoerper  primaer mit KM-91097,fdg,39eca178a1,True,0
+fdg_3b14690fce_09-07-2002-NA-PET-CT Ganzkoerper  primaer mit KM-38312,fdg,3b14690fce,True,0
+fdg_3b73c2480a_10-19-2001-NA-PET-CT Ganzkoerper  primaer mit KM-00650,fdg,3b73c2480a,False,10468
+fdg_3ba0277c0c_04-26-2007-NA-PET-CT Ganzkoerper  primaer mit KM-46623,fdg,3ba0277c0c,False,32
+fdg_3d8b79d739_11-28-2004-NA-PET-CT Ganzkoerper  primaer mit KM-35511,fdg,3d8b79d739,True,0
+fdg_3f3df20439_05-09-2005-NA-PET-CT Ganzkoerper  primaer mit KM-26210,fdg,3f3df20439,True,0
+fdg_3f5a9f616f_06-03-2007-NA-PET-CT Ganzkoerper  primaer mit KM-90087,fdg,3f5a9f616f,False,8403
+fdg_3fd361ec14_10-24-2004-NA-PET-CT Ganzkoerper  primaer mit KM-79985,fdg,3fd361ec14,False,8439
+fdg_404f8c732f_06-14-2007-NA-PET-CT Ganzkoerper  primaer mit KM-44688,fdg,404f8c732f,True,0
+fdg_4095c12e2d_11-30-2006-NA-PET-CT Ganzkoerper  primaer mit KM-93702,fdg,4095c12e2d,True,0
+fdg_41472f5ce9_03-16-2003-NA-PET-CT Ganzkoerper  primaer mit KM-95962,fdg,41472f5ce9,False,19003
+fdg_41fadf6520_02-27-2003-NA-PET-CT Ganzkoerper  primaer mit KM-27536,fdg,41fadf6520,False,31
+fdg_43323b7d42_05-27-2001-NA-PET-CT Ganzkoerper  primaer mit KM-89158,fdg,43323b7d42,False,36010
+fdg_442a09f90e_03-16-2002-NA-PET-CT Ganzkoerper  primaer mit KM-24290,fdg,442a09f90e,False,12177
+fdg_4481687483_10-17-2003-NA-PET-CT Ganzkoerper  primaer mit KM-68961,fdg,4481687483,True,0
+fdg_448225c237_01-16-2006-NA-PET-CT Ganzkoerper  primaer mit KM-96439,fdg,448225c237,True,0
+fdg_474d7af918_12-09-2004-NA-PET-CT Ganzkoerper  primaer mit KM-66154,fdg,474d7af918,True,0
+fdg_4760c0139a_01-26-2006-NA-PET-CT Ganzkoerper  primaer mit KM-28262,fdg,4760c0139a,True,0
+fdg_4785066413_08-24-2006-NA-PET-CT Ganzkoerper  primaer mit KM-27776,fdg,4785066413,True,0
+fdg_47f4460050_08-06-2006-NA-PET-CT Ganzkoerper  primaer mit KM-39942,fdg,47f4460050,True,0
+fdg_48a34ccdf0_02-15-2003-NA-PET-CT Ganzkoerper  primaer mit KM-78651,fdg,48a34ccdf0,True,0
+fdg_4a0d2e5166_11-24-2006-NA-PET-CT Teilkoerper  primaer mit KM-72298,fdg,4a0d2e5166,True,0
+fdg_4b688f46b0_02-18-2005-NA-PET-CT Ganzkoerper  primaer mit KM-34892,fdg,4b688f46b0,False,33581
+fdg_4c75fa4a5d_04-19-2001-NA-PET-CT Ganzkoerper  primaer mit KM-33664,fdg,4c75fa4a5d,False,119737
+fdg_4ef69de4e1_10-25-2002-NA-PET-CT Teilkoerper  primaer mit KM-18049,fdg,4ef69de4e1,True,0
+fdg_4fb1817df3_06-06-2005-NA-PET-CT Ganzkoerper  primaer mit KM-07366,fdg,4fb1817df3,True,0
+fdg_5109748328_08-03-2002-NA-PET-CT Ganzkoerper  primaer mit KM-85229,fdg,5109748328,True,0
+fdg_515c40c4a6_07-24-2006-NA-PET-CT Ganzkoerper  primaer mit KM-06231,fdg,515c40c4a6,True,0
+fdg_5420205a5f_12-07-2006-NA-PET-CT Ganzkoerper  primaer mit KM-99033,fdg,5420205a5f,True,0
+fdg_548213edf7_09-19-2005-NA-PET-CT Ganzkoerper  primaer mit KM-05001,fdg,548213edf7,False,7865
+fdg_54977a7e76_02-21-2003-NA-PET-CT Ganzkoerper  primaer mit KM-77235,fdg,54977a7e76,True,0
+fdg_556b56485a_08-29-2003-NA-PET-CT Ganzkoerper  primaer mit KM-83019,fdg,556b56485a,False,13885
+fdg_55ae7986e1_05-10-2003-NA-PET-CT Ganzkoerper  primaer mit KM-11736,fdg,55ae7986e1,False,58
+fdg_562294be56_04-28-2003-NA-PET-CT Ganzkoerper  primaer mit KM-92374,fdg,562294be56,True,0
+fdg_562294be56_10-21-2002-NA-PET-CT Ganzkoerper  primaer mit KM-66544,fdg,562294be56,True,0
+fdg_562294be56_11-15-2003-NA-PET-CT Ganzkoerper  primaer mit KM-29285,fdg,562294be56,True,0
+fdg_5a58935b68_12-06-2002-NA-PET-CT Ganzkoerper  primaer mit KM-24073,fdg,5a58935b68,False,24823
+fdg_5ac4fd9091_11-14-2004-NA-PET-CT Ganzkoerper  primaer mit KM-54461,fdg,5ac4fd9091,True,0
+fdg_5cf118ac06_02-28-2004-NA-PET-CT Ganzkoerper  primaer mit KM-95778,fdg,5cf118ac06,False,40875
+fdg_5e2da717db_06-28-2002-NA-PET-CT Ganzkoerper  primaer mit KM-20485,fdg,5e2da717db,False,25210
+fdg_5ef99b0b6b_09-07-2000-NA-PET-CT Ganzkoerper  primaer mit KM-44649,fdg,5ef99b0b6b,False,44456
+fdg_5fa9d9a820_03-24-2003-NA-PET-CT Ganzkoerper nativ-75918,fdg,5fa9d9a820,True,0
+fdg_5fa9d9a820_09-13-2003-NA-PET-CT Ganzkoerper nativ-36159,fdg,5fa9d9a820,True,0
+fdg_5fa9d9a820_09-15-2002-NA-PET-CT Ganzkoerper nativ-75551,fdg,5fa9d9a820,True,0
+fdg_5fa9d9a820_09-27-2004-NA-PET-CT Ganzkoerper nativ-86237,fdg,5fa9d9a820,True,0
+fdg_631b419cef_11-23-2006-NA-PET-CT Ganzkoerper  primaer mit KM-73635,fdg,631b419cef,True,0
+fdg_64909533c5_04-14-2003-NA-PET-CT Ganzkoerper  primaer mit KM-98015,fdg,64909533c5,False,4824
+fdg_68b75093c5_11-12-2000-NA-PET-CT Ganzkoerper  primaer mit KM-72515,fdg,68b75093c5,False,4705
+fdg_6b177a3c28_06-30-2005-NA-PET-CT Ganzkoerper  primaer mit KM-89194,fdg,6b177a3c28,True,0
+fdg_6c23f2686d_04-21-2007-NA-PET-CT Ganzkoerper  primaer mit KM-36051,fdg,6c23f2686d,False,12003
+fdg_6d62e15c29_02-23-2007-NA-PET-CT Ganzkoerper  primaer mit KM-49711,fdg,6d62e15c29,False,402
+fdg_6d62e15c29_08-24-2006-NA-PET-CT Ganzkoerper  primaer mit KM-72408,fdg,6d62e15c29,True,0
+fdg_6fe855c937_12-29-2001-NA-PET-CT Ganzkoerper  primaer mit KM-74146,fdg,6fe855c937,False,14075
+fdg_73fda3a382_08-12-2005-NA-PET-CT Ganzkoerper  primaer mit KM-37318,fdg,73fda3a382,False,21695
+fdg_742a9413db_11-10-2001-NA-PET-CT Ganzkoerper  primaer mit KM-67094,fdg,742a9413db,False,19994
+fdg_75210090cd_07-02-2005-NA-PET-CT Ganzkoerper  primaer mit KM-41469,fdg,75210090cd,True,0
+fdg_75d5e740f0_07-11-2002-NA-PET-CT Teilkoerper  primaer mit KM-73333,fdg,75d5e740f0,True,0
+fdg_75e42ff05f_09-21-2002-NA-PET-CT Ganzkoerper  primaer mit KM-21375,fdg,75e42ff05f,True,0
+fdg_77bceab232_11-21-2002-NA-PET-CT Ganzkoerper  primaer mit KM-21240,fdg,77bceab232,False,1489
+fdg_791ec15924_04-16-2001-NA-PET-CT Ganzkoerper  primaer mit KM-50308,fdg,791ec15924,False,10182
+fdg_792d7b6ad0_04-04-2005-NA-PET-CT Teilkoerper  primaer mit KM-71581,fdg,792d7b6ad0,True,0
+fdg_7a3a27371a_04-13-2006-NA-PET-CT Ganzkoerper  primaer mit KM-47449,fdg,7a3a27371a,True,0
+fdg_7a8a062ed5_03-12-2005-NA-PET-CT Ganzkoerper  primaer mit KM-27527,fdg,7a8a062ed5,False,13068
+fdg_7abe274c10_09-21-2006-NA-PET-CT Ganzkoerper  primaer mit KM-21377,fdg,7abe274c10,True,0
+fdg_7b477e7e0d_06-19-2003-NA-PET-CT Ganzkoerper  primaer mit KM-32373,fdg,7b477e7e0d,True,0
+fdg_7b477e7e0d_07-26-2002-NA-PET-CT Ganzkoerper  primaer mit KM-97314,fdg,7b477e7e0d,False,21670
+fdg_7ce196485f_01-19-2006-NA-PET-CT Teilkoerper  primaer mit KM-67152,fdg,7ce196485f,False,482
+fdg_7cfd708a53_06-17-2005-NA-PET-CT Ganzkoerper  primaer mit KM-72140,fdg,7cfd708a53,False,5304
+fdg_7ee7610b9e_01-21-2006-NA-PET-CT Ganzkoerper  primaer mit KM-58977,fdg,7ee7610b9e,True,0
+fdg_81debf13a1_03-09-2006-NA-PET-CT Ganzkoerper  primaer mit KM-10303,fdg,81debf13a1,True,0
+fdg_83e4c5b578_03-11-2006-NA-PET-CT Ganzkoerper  primaer mit KM-45776,fdg,83e4c5b578,True,0
+fdg_855c7fca12_07-27-2006-NA-PET-CT Ganzkoerper  primaer mit KM-14836,fdg,855c7fca12,True,0
+fdg_870181d7fd_10-31-2004-NA-PET-CT Ganzkoerper  primaer mit KM-80978,fdg,870181d7fd,False,509
+fdg_87afc291ec_01-26-2006-NA-PET-CT Ganzkoerper  primaer mit KM-76998,fdg,87afc291ec,True,0
+fdg_87afc291ec_07-20-2003-NA-PET-CT Ganzkoerper nativ-60370,fdg,87afc291ec,True,0
+fdg_89065bc4ab_02-20-2004-NA-PET-CT Ganzkoerper  primaer mit KM-11843,fdg,89065bc4ab,False,200
+fdg_89fb723947_09-03-2000-NA-PET-CT Ganzkoerper  primaer mit KM-88227,fdg,89fb723947,False,17248
+fdg_8af3757198_12-03-2006-NA-PET-CT Teilkoerper  primaer mit KM-86910,fdg,8af3757198,True,0
+fdg_8b714a64e7_05-17-2007-NA-PET-CT Ganzkoerper  primaer mit KM-38953,fdg,8b714a64e7,True,0
+fdg_8b74860ce6_03-10-2005-NA-PET-CT Ganzkoerper  primaer mit KM-00433,fdg,8b74860ce6,False,27308
+fdg_90ea6a6aaf_07-27-2001-NA-PET-CT Ganzkoerper  primaer mit KM-53945,fdg,90ea6a6aaf,False,14936
+fdg_93132553f6_08-12-2002-NA-PET-CT Ganzkoerper  primaer mit KM-51100,fdg,93132553f6,True,0
+fdg_97320b0b58_04-17-2005-NA-PET-CT Ganzkoerper  primaer mit KM-10200,fdg,97320b0b58,False,40516
+fdg_97320b0b58_07-28-2005-NA-PET-CT Ganzkoerper  primaer mit KM-33245,fdg,97320b0b58,True,0
+fdg_9860ffe82d_11-19-2004-NA-PET-CT Ganzkoerper  primaer mit KM-95403,fdg,9860ffe82d,True,0
+fdg_987c8a1160_01-22-2005-NA-PET-CT Ganzkoerper  primaer mit KM-13761,fdg,987c8a1160,False,366
+fdg_98c6af8b90_05-26-2003-NA-PET-CT Ganzkoerper  primaer mit KM-21188,fdg,98c6af8b90,False,64222
+fdg_9a2c6e618a_02-14-2000-NA-PET-CT Ganzkoerper  primaer mit KM-05254,fdg,9a2c6e618a,False,10149
+fdg_9a418f3b3a_05-11-2003-NA-PET-CT Ganzkoerper  primaer mit KM-28692,fdg,9a418f3b3a,True,0
+fdg_9a66a81ad1_02-26-2005-NA-PET-CT Ganzkoerper  primaer mit KM-42006,fdg,9a66a81ad1,True,0
+fdg_9a66a81ad1_05-13-2006-NA-PET-CT Ganzkoerper  primaer mit KM-84406,fdg,9a66a81ad1,True,0
+fdg_9a66a81ad1_10-21-2005-NA-PET-CT Ganzkoerper  primaer mit KM-71418,fdg,9a66a81ad1,True,0
+fdg_9a66a81ad1_10-31-2004-NA-PET-CT Ganzkoerper nativ-04122,fdg,9a66a81ad1,True,0
+fdg_9b53627d23_02-11-2006-NA-PET-CT Ganzkoerper  primaer mit KM-98837,fdg,9b53627d23,True,0
+fdg_9d6699f215_06-16-2003-NA-PET-CT Ganzkoerper  primaer mit KM-75688,fdg,9d6699f215,False,361
+fdg_9d6e9223cc_11-16-2002-NA-Unspecified CT-30924,fdg,9d6e9223cc,True,0
+fdg_9f491f1481_02-12-2006-NA-PET-CT Ganzkoerper  primaer mit KM-19458,fdg,9f491f1481,True,0
+fdg_9f6e8b1b43_11-16-2002-NA-PET-CT Ganzkoerper nativ-64835,fdg,9f6e8b1b43,True,0
+fdg_a19ef8e0d2_12-26-1999-NA-PET-CT Ganzkoerper  primaer mit KM-80792,fdg,a19ef8e0d2,False,126834
+fdg_a1d93ebc74_09-01-2003-NA-PET-CT Teilkoerper nativ-67659,fdg,a1d93ebc74,True,0
+fdg_a21200dcba_03-10-2005-NA-PET-CT Ganzkoerper  primaer mit KM-40542,fdg,a21200dcba,True,0
+fdg_a2a68bbe97_08-21-2003-NA-PET-CT Ganzkoerper nativ u. mit KM-31502,fdg,a2a68bbe97,False,914
+fdg_a37c4e231f_12-13-2002-NA-PET-CT Ganzkoerper  primaer mit KM-39859,fdg,a37c4e231f,True,0
+fdg_a3ce52b2a8_10-19-2002-NA-PET-CT Ganzkoerper  primaer mit KM-28693,fdg,a3ce52b2a8,True,0
+fdg_a3ce52b2a8_11-15-2003-NA-PET-CT Ganzkoerper  primaer mit KM-48149,fdg,a3ce52b2a8,True,0
+fdg_a3df01d3a3_10-05-2002-NA-PET-CT Ganzkoerper  primaer mit KM-66224,fdg,a3df01d3a3,False,26671
+fdg_a41d59682f_09-29-2006-NA-PET-CT Ganzkoerper  primaer mit KM-76863,fdg,a41d59682f,True,0
+fdg_a471649d35_05-06-2002-NA-PET-CT Ganzkoerper  primaer mit KM-07385,fdg,a471649d35,False,2166
+fdg_a4cb97ffc7_07-11-2005-NA-PET-CT Ganzkoerper  primaer mit KM-47854,fdg,a4cb97ffc7,True,0
+fdg_a4ccc397a9_11-30-2002-NA-PET-CT Ganzkoerper  primaer mit KM-22361,fdg,a4ccc397a9,True,0
+fdg_a90955352e_05-16-2003-NA-PET-CT Ganzkoerper  primaer mit KM-28986,fdg,a90955352e,True,0
+fdg_a933c9af60_09-19-2002-NA-PET-CT Ganzkoerper nativ-00786,fdg,a933c9af60,True,0
+fdg_ac11b344b6_11-03-2002-NA-PET-CT Ganzkoerper  primaer mit KM-98064,fdg,ac11b344b6,False,17003
+fdg_ad7cd4a9d2_10-02-2003-NA-Unspecified CT ABDOMEN-67897,fdg,ad7cd4a9d2,False,72837
+fdg_ad99263bec_01-29-2006-NA-PET-CT Ganzkoerper  primaer mit KM-06189,fdg,ad99263bec,True,0
+fdg_ae6a37a9d6_02-10-2005-NA-PET-CT Ganzkoerper nativ-52902,fdg,ae6a37a9d6,True,0
+fdg_ae6a37a9d6_02-18-2006-NA-PET-CT Ganzkoerper nativ-18818,fdg,ae6a37a9d6,True,0
+fdg_ae6a37a9d6_08-18-2005-NA-PET-CT Ganzkoerper nativ-80520,fdg,ae6a37a9d6,True,0
+fdg_ae6a37a9d6_09-13-2003-NA-PET-CT Ganzkoerper nativ-87760,fdg,ae6a37a9d6,True,0
+fdg_ae6a37a9d6_09-15-2002-NA-PET-CT Ganzkoerper nativ-25113,fdg,ae6a37a9d6,True,0
+fdg_aea7906fd2_12-16-2001-NA-PET-CT Ganzkoerper  primaer mit KM-08307,fdg,aea7906fd2,False,4536
+fdg_aee7d68f86_04-15-2002-NA-PET-CT Ganzkoerper  primaer mit KM-24870,fdg,aee7d68f86,False,20935
+fdg_b41bc7c1e5_03-12-2005-NA-PET-CT Ganzkoerper  primaer mit KM-18795,fdg,b41bc7c1e5,False,153
+fdg_b41bc7c1e5_08-06-2006-NA-PET-CT Ganzkoerper  primaer mit KM-19480,fdg,b41bc7c1e5,True,0
+fdg_b41bc7c1e5_11-05-2006-NA-PET-CT Ganzkoerper  primaer mit KM-32035,fdg,b41bc7c1e5,True,0
+fdg_b621742469_11-04-2004-NA-PET-CT Ganzkoerper  primaer mit KM-74522,fdg,b621742469,True,0
+fdg_b663adb148_06-21-2007-NA-PET-CT Ganzkoerper  primaer mit KM-71959,fdg,b663adb148,True,0
+fdg_b6a3c72db6_07-13-2002-NA-PET-CT Ganzkoerper  primaer mit KM-50469,fdg,b6a3c72db6,False,1009
+fdg_ba81e4b04b_12-02-2005-NA-PET-CT Ganzkoerper  primaer mit KM-51905,fdg,ba81e4b04b,True,0
+fdg_bb564e29d2_05-05-2006-NA-PET-CT Ganzkoerper  primaer mit KM-41169,fdg,bb564e29d2,True,0
+fdg_bc80d06f97_02-18-2002-NA-PET-CT Ganzkoerper  primaer mit KM-82151,fdg,bc80d06f97,False,2704
+fdg_bd7603e9df_05-06-2005-NA-PET-CT Ganzkoerper  primaer mit KM-26867,fdg,bd7603e9df,False,2542
+fdg_bdd21f5590_09-14-2003-NA-PET-CT Ganzkoerper  primaer mit KM-30401,fdg,bdd21f5590,False,611
+fdg_bef465b4ad_05-04-2007-NA-PET-CT Ganzkoerper  primaer mit KM-73031,fdg,bef465b4ad,True,0
+fdg_bf178a41b2_06-08-2002-NA-PET-CT Ganzkoerper  primaer mit KM-45943,fdg,bf178a41b2,False,24783
+fdg_bf7652bccc_11-25-2002-NA-PET-CT Ganzkoerper  primaer mit KM-97622,fdg,bf7652bccc,False,6720
+fdg_c08293f2b2_07-13-2006-NA-PET-CT Ganzkoerper  primaer mit KM-63210,fdg,c08293f2b2,True,0
+fdg_c10f48b173_11-27-2004-NA-PET-CT Ganzkoerper  primaer mit KM-67287,fdg,c10f48b173,True,0
+fdg_c16c13211c_10-26-2003-NA-PET-CT Ganzkoerper  primaer mit KM-76612,fdg,c16c13211c,False,812
+fdg_c58b637e17_06-11-2005-NA-PET-CT Ganzkoerper  primaer mit KM-16929,fdg,c58b637e17,True,0
+fdg_c6730783de_01-05-2006-NA-PET-CT Ganzkoerper  primaer mit KM-13754,fdg,c6730783de,True,0
+fdg_c799ccc2f6_08-26-2002-NA-PET-CT Ganzkoerper  primaer mit KM-15112,fdg,c799ccc2f6,False,6490
+fdg_c9f1b9980f_09-15-2003-NA-PET-CT Ganzkoerper  primaer mit KM-57516,fdg,c9f1b9980f,True,0
+fdg_ca16242e89_09-13-2002-NA-PET-CT Ganzkoerper  primaer mit KM-92869,fdg,ca16242e89,True,0
+fdg_ca16242e89_09-18-2003-NA-PET-CT Ganzkoerper  primaer mit KM-61834,fdg,ca16242e89,True,0
+fdg_ca47fe5e7d_09-01-2003-NA-PET-CT Ganzkoerper  primaer mit KM-30672,fdg,ca47fe5e7d,False,19619
+fdg_cab58c1fee_03-19-2007-NA-PET-CT Ganzkoerper  primaer mit KM-35336,fdg,cab58c1fee,False,165
+fdg_cb83710e3d_03-10-2006-NA-PET-CT Ganzkoerper  primaer mit KM-91744,fdg,cb83710e3d,True,0
+fdg_ccd8f5ff71_10-29-2006-NA-PET-CT Ganzkoerper  primaer mit KM-53232,fdg,ccd8f5ff71,True,0
+fdg_d103e57f0e_12-12-2002-NA-PET-CT Ganzkoerper  primaer mit KM-63742,fdg,d103e57f0e,True,0
+fdg_d27451634d_03-12-2005-NA-PET-CT Ganzkoerper  primaer mit KM-00632,fdg,d27451634d,True,0
+fdg_d31a5688a2_09-21-2003-NA-PET-CT Ganzkoerper  primaer mit KM-27218,fdg,d31a5688a2,True,0
+fdg_d32cf972af_03-13-2003-NA-PET-CT Ganzkoerper  primaer mit KM-81075,fdg,d32cf972af,True,0
+fdg_d3f13dff4b_08-24-2003-NA-Unspecified CT ABDOMEN-55333,fdg,d3f13dff4b,True,0
+fdg_d40a16781a_09-13-2003-NA-PET-CT Ganzkoerper  primaer mit KM-42002,fdg,d40a16781a,False,8830
+fdg_d4d3d7dfc1_09-12-2005-NA-PET-CT Ganzkoerper  primaer mit KM-74897,fdg,d4d3d7dfc1,True,0
+fdg_d51664a9e4_11-05-2004-NA-PET-CT Ganzkoerper  primaer mit KM-38087,fdg,d51664a9e4,False,9739
+fdg_d626611daf_04-03-2003-NA-PET-CT Ganzkoerper  primaer mit KM-63001,fdg,d626611daf,True,0
+fdg_d626611daf_06-19-2005-NA-PET-CT Ganzkoerper  primaer mit KM-37237,fdg,d626611daf,True,0
+fdg_d626611daf_10-02-2003-NA-PET-CT Ganzkoerper  primaer mit KM-36435,fdg,d626611daf,True,0
+fdg_d626611daf_11-12-2004-NA-PET-CT Ganzkoerper  primaer mit KM-09149,fdg,d626611daf,True,0
+fdg_d626611daf_11-29-2002-NA-PET-CT Ganzkoerper  primaer mit KM-88747,fdg,d626611daf,False,48200
+fdg_d65cf203be_04-28-2007-NA-PET-CT Ganzkoerper  primaer mit KM-61450,fdg,d65cf203be,False,100
+fdg_d69c3fceba_04-05-2003-NA-PET-CT Ganzkoerper  primaer mit KM-13415,fdg,d69c3fceba,False,2380
+fdg_d8e3aa97a0_05-19-2005-NA-PET-CT Ganzkoerper  primaer mit KM-76076,fdg,d8e3aa97a0,True,0
+fdg_d9da6129f8_04-14-2002-NA-PET-CT Ganzkoerper  primaer mit KM-51600,fdg,d9da6129f8,False,6551
+fdg_dd8f9f217c_02-15-2004-NA-PET-CT Ganzkoerper  primaer mit KM-50103,fdg,dd8f9f217c,False,7284
+fdg_e1a5b05186_02-27-2005-NA-PET-CT Ganzkoerper  primaer mit KM-36173,fdg,e1a5b05186,True,0
+fdg_e207c7a1a4_12-23-2005-NA-PET-CT Teilkoerper  primaer mit KM-37422,fdg,e207c7a1a4,True,0
+fdg_e5d50c5569_08-24-2006-NA-PET-CT Ganzkoerper  primaer mit KM-02506,fdg,e5d50c5569,True,0
+fdg_e6a91fef70_03-02-2006-NA-PET-CT Ganzkoerper  primaer mit KM-65080,fdg,e6a91fef70,True,0
+fdg_e6b8b963b2_12-22-2006-NA-PET-CT Ganzkoerper  primaer mit KM-63791,fdg,e6b8b963b2,True,0
+fdg_e77c5fca12_10-28-2002-NA-PET-CT Ganzkoerper  primaer mit KM-85839,fdg,e77c5fca12,False,5621
+fdg_e9be8ec30f_12-12-2002-NA-PET-CT Ganzkoerper  primaer mit KM-29714,fdg,e9be8ec30f,False,6775
+fdg_e9feb1135e_07-01-2005-NA-PET-CT Ganzkoerper  primaer mit KM-42484,fdg,e9feb1135e,True,0
+fdg_e9feb1135e_09-09-2005-NA-PET-CT Ganzkoerper  primaer mit KM-13606,fdg,e9feb1135e,True,0
+fdg_ebb0045704_09-27-2002-NA-Unspecified CT-08213,fdg,ebb0045704,False,7977
+fdg_ec581d49ef_01-23-2003-NA-PET-CT Ganzkoerper  primaer mit KM-07785,fdg,ec581d49ef,False,1137
+fdg_ec581d49ef_03-25-2002-NA-PET-CT Ganzkoerper  primaer mit KM-41627,fdg,ec581d49ef,False,1423
+fdg_ec6b934720_10-25-2002-NA-PET-CT Ganzkoerper  primaer mit KM-66107,fdg,ec6b934720,False,7832
+fdg_eee2ede9ad_11-24-2006-NA-PET-CT Ganzkoerper  primaer mit KM-07089,fdg,eee2ede9ad,True,0
+fdg_eeeda112bb_06-07-2003-NA-PET-CT Ganzkoerper  primaer mit KM-99935,fdg,eeeda112bb,False,14429
+fdg_ef9d41b836_05-21-2001-NA-PET-CT Ganzkoerper  primaer mit KM-39055,fdg,ef9d41b836,False,93564
+fdg_f01e83894d_03-24-2005-NA-PET-CT Ganzkoerper  primaer mit KM-61290,fdg,f01e83894d,False,781
+fdg_f1594a7d8a_04-25-2003-NA-PET-CT Ganzkoerper  primaer mit KM-44309,fdg,f1594a7d8a,True,0
+fdg_f1ca0f7c4c_12-22-2001-NA-PET-CT Ganzkoerper  primaer mit KM-21488,fdg,f1ca0f7c4c,False,2186
+fdg_f2f28337ba_05-03-2001-NA-PET-CT Ganzkoerper  primaer mit KM-27577,fdg,f2f28337ba,False,4396
+fdg_f4a5ebd915_10-03-2003-NA-PET-CT Ganzkoerper  primaer mit KM-06836,fdg,f4a5ebd915,True,0
+fdg_f5c9b0de6c_04-02-2004-NA-PET-CT Ganzkoerper  primaer mit KM-04984,fdg,f5c9b0de6c,False,38591
+fdg_f603eeceba_03-17-2003-NA-PET-CT Ganzkoerper  primaer mit KM-29929,fdg,f603eeceba,True,0
+fdg_f60ea3abc5_05-03-2003-NA-PET-CT Ganzkoerper  primaer mit KM-12218,fdg,f60ea3abc5,False,46492
+fdg_f7067b7bbb_05-26-2001-NA-PET-CT Ganzkoerper  primaer mit KM-25597,fdg,f7067b7bbb,False,15090
+fdg_f8aac0e202_02-26-2006-NA-PET-CT Ganzkoerper  primaer mit KM-41484,fdg,f8aac0e202,True,0
+fdg_f8aac0e202_07-30-2006-NA-PET-CT Ganzkoerper  primaer mit KM-85987,fdg,f8aac0e202,True,0
+psma_0179419e313f7d8c_2019-06-10,psma,0179419e313f7d8c,False,286
+psma_0198cdca94fbb95f_2019-12-28,psma,0198cdca94fbb95f,False,51887
+psma_0198cdca94fbb95f_2020-05-09,psma,0198cdca94fbb95f,False,6216
+psma_04f0f08528c9c231_2017-12-31,psma,04f0f08528c9c231,False,34
+psma_08a881912350c103_2014-09-27,psma,08a881912350c103,False,1463
+psma_08e4ed1f00357374_2015-01-03,psma,08e4ed1f00357374,True,0
+psma_0908b747558fc03e_2019-11-02,psma,0908b747558fc03e,False,378
+psma_0a52cb5b45b821f7_2015-09-18,psma,0a52cb5b45b821f7,False,4419
+psma_0a52cb5b45b821f7_2016-02-19,psma,0a52cb5b45b821f7,False,14304
+psma_0b1200b317289bbb_2019-12-14,psma,0b1200b317289bbb,False,64
+psma_0d2d8c9b29ea6861_2020-04-25,psma,0d2d8c9b29ea6861,False,939
+psma_0ef9e2afd72f7483_2019-10-04,psma,0ef9e2afd72f7483,False,295
+psma_12191f0bacb7e563_2016-02-14,psma,12191f0bacb7e563,False,226
+psma_12191f0bacb7e563_2017-03-10,psma,12191f0bacb7e563,False,17
+psma_128df5e4d18fca55_2016-01-22,psma,128df5e4d18fca55,False,3840
+psma_16660da87b2fe805_2020-10-10,psma,16660da87b2fe805,False,128
+psma_19eed20451e33bc1_2019-09-23,psma,19eed20451e33bc1,False,5250
+psma_19eed20451e33bc1_2020-02-10,psma,19eed20451e33bc1,False,20768
+psma_1bbf6768fbbf5228_2017-05-27,psma,1bbf6768fbbf5228,True,0
+psma_206e0f3bf8cb8ed3_2015-12-25,psma,206e0f3bf8cb8ed3,True,0
+psma_206e0f3bf8cb8ed3_2018-03-09,psma,206e0f3bf8cb8ed3,False,217
+psma_206e0f3bf8cb8ed3_2019-04-19,psma,206e0f3bf8cb8ed3,False,249
+psma_209536ec8c0b1d5e_2019-11-04,psma,209536ec8c0b1d5e,False,710
+psma_215789b9b4379af2_2018-04-14,psma,215789b9b4379af2,False,119
+psma_24f62f21c04402ec_2014-11-23,psma,24f62f21c04402ec,False,4261
+psma_24f62f21c04402ec_2015-04-26,psma,24f62f21c04402ec,False,12459
+psma_2740fa8c813cd29c_2014-04-24,psma,2740fa8c813cd29c,False,23
+psma_2740fa8c813cd29c_2015-01-02,psma,2740fa8c813cd29c,False,92
+psma_2740fa8c813cd29c_2017-09-01,psma,2740fa8c813cd29c,True,0
+psma_29bdce6d61139fd7_2018-01-19,psma,29bdce6d61139fd7,False,45
+psma_2c2358f5005d1a3c_2019-06-21,psma,2c2358f5005d1a3c,False,240
+psma_2e53e6536753bac6_2017-08-12,psma,2e53e6536753bac6,False,37799
+psma_2fe466a567a7eab3_2015-02-20,psma,2fe466a567a7eab3,False,8422
+psma_2fe466a567a7eab3_2015-06-21,psma,2fe466a567a7eab3,False,12455
+psma_30fbb9471537bfb0_2014-06-23,psma,30fbb9471537bfb0,False,177
+psma_362c6e38b303c924_2020-10-26,psma,362c6e38b303c924,False,843
+psma_367adbcbbe2108d5_2019-09-27,psma,367adbcbbe2108d5,False,2081
+psma_36fc7d8bd1286adb_2022-02-26,psma,36fc7d8bd1286adb,False,25315
+psma_36fc7d8bd1286adb_2022-07-02,psma,36fc7d8bd1286adb,False,59823
+psma_37328a98c70706f3_2020-11-06,psma,37328a98c70706f3,False,106
+psma_3c928684b9d209d2_2016-07-11,psma,3c928684b9d209d2,False,18
+psma_3c928684b9d209d2_2017-02-18,psma,3c928684b9d209d2,True,0
+psma_3c928684b9d209d2_2018-11-05,psma,3c928684b9d209d2,False,37
+psma_3f09802c9c2821e1_2016-07-16,psma,3f09802c9c2821e1,False,317
+psma_3f55913f4da93e63_2019-10-12,psma,3f55913f4da93e63,False,11109
+psma_43327d1d34bc5300_2015-09-06,psma,43327d1d34bc5300,False,7
+psma_43327d1d34bc5300_2018-10-27,psma,43327d1d34bc5300,True,0
+psma_43327d1d34bc5300_2020-02-14,psma,43327d1d34bc5300,True,0
+psma_46cf1282a7648712_2017-08-06,psma,46cf1282a7648712,False,141
+psma_46cf1282a7648712_2019-04-19,psma,46cf1282a7648712,False,113
+psma_46fcda50b67c2523_2020-11-21,psma,46fcda50b67c2523,False,18404
+psma_46fcda50b67c2523_2021-03-06,psma,46fcda50b67c2523,False,21983
+psma_485138f63be9a0a4_2015-01-10,psma,485138f63be9a0a4,False,3036
+psma_485138f63be9a0a4_2015-03-27,psma,485138f63be9a0a4,False,43
+psma_485138f63be9a0a4_2015-07-04,psma,485138f63be9a0a4,True,0
+psma_4aa52e14d0947256_2015-07-26,psma,4aa52e14d0947256,False,823
+psma_4aa52e14d0947256_2017-09-16,psma,4aa52e14d0947256,False,2128
+psma_4dee75d0657f3c47_2015-11-05,psma,4dee75d0657f3c47,False,13360
+psma_54d1613921a2d2ae_2021-02-01,psma,54d1613921a2d2ae,False,3254
+psma_54d1613921a2d2ae_2021-06-12,psma,54d1613921a2d2ae,False,4832
+psma_560e93923a626c54_2015-06-13,psma,560e93923a626c54,False,229
+psma_57a5841a095d55d1_2018-06-30,psma,57a5841a095d55d1,False,3995
+psma_58d3055bba19d76b_2021-01-15,psma,58d3055bba19d76b,True,0
+psma_5c0552e946050837_2019-11-22,psma,5c0552e946050837,False,426
+psma_5f2413a58d43dcac_2015-01-29,psma,5f2413a58d43dcac,False,168
+psma_5f2413a58d43dcac_2019-01-26,psma,5f2413a58d43dcac,False,62
+psma_605d8fc340cd0e00_2017-07-31,psma,605d8fc340cd0e00,False,460
+psma_6786badc43e8c5cc_2019-07-08,psma,6786badc43e8c5cc,False,20
+psma_6aaac4dc1cccd43c_2020-05-11,psma,6aaac4dc1cccd43c,True,0
+psma_6b41c21073fb3fc9_2018-03-19,psma,6b41c21073fb3fc9,False,3292
+psma_6c6ce41bbf51580b_2019-07-27,psma,6c6ce41bbf51580b,False,4140
+psma_6d5c002d629eb131_2022-01-22,psma,6d5c002d629eb131,False,3847
+psma_6d5c002d629eb131_2022-06-04,psma,6d5c002d629eb131,False,8327
+psma_75c11a592f49e915_2018-12-17,psma,75c11a592f49e915,False,233
+psma_798b3279d6980a3b_2018-11-19,psma,798b3279d6980a3b,False,2234
+psma_798b3279d6980a3b_2019-03-04,psma,798b3279d6980a3b,False,401
+psma_798b3279d6980a3b_2019-05-31,psma,798b3279d6980a3b,True,0
+psma_798b3279d6980a3b_2019-08-02,psma,798b3279d6980a3b,True,0
+psma_798b3279d6980a3b_2019-11-01,psma,798b3279d6980a3b,True,0
+psma_799e088191559ae6_2017-08-05,psma,799e088191559ae6,False,888
+psma_799e088191559ae6_2017-12-30,psma,799e088191559ae6,False,1443
+psma_7bf1123c2e71a6f9_2018-02-09,psma,7bf1123c2e71a6f9,False,18300
+psma_80a782c4b998fefd_2020-07-31,psma,80a782c4b998fefd,False,4675
+psma_80b075b681bffb02_2017-01-30,psma,80b075b681bffb02,False,1036
+psma_80b075b681bffb02_2017-07-14,psma,80b075b681bffb02,False,2999
+psma_84e88412b53d05ff_2014-02-22,psma,84e88412b53d05ff,False,855
+psma_88c7a13c98fc9ede_2020-04-27,psma,88c7a13c98fc9ede,False,48
+psma_8b4fac8d72277be9_2019-09-02,psma,8b4fac8d72277be9,True,0
+psma_8dc29430e8d532c6_2019-02-08,psma,8dc29430e8d532c6,False,705
+psma_8dc29430e8d532c6_2019-07-12,psma,8dc29430e8d532c6,False,3995
+psma_8e7619b9167225fb_2016-06-17,psma,8e7619b9167225fb,False,119
+psma_8e7619b9167225fb_2019-03-30,psma,8e7619b9167225fb,False,26
+psma_8e7619b9167225fb_2020-09-28,psma,8e7619b9167225fb,False,150
+psma_9421cee77b2c2953_2019-10-04,psma,9421cee77b2c2953,False,108
+psma_95b833d46f153cd2_2017-11-18,psma,95b833d46f153cd2,False,5543
+psma_95b833d46f153cd2_2018-04-16,psma,95b833d46f153cd2,False,12996
+psma_963334ffb5b4855b_2019-04-19,psma,963334ffb5b4855b,False,107
+psma_9724be80190a0274_2016-05-27,psma,9724be80190a0274,False,295
+psma_9724be80190a0274_2018-03-10,psma,9724be80190a0274,True,0
+psma_99278c16213e2429_2015-12-19,psma,99278c16213e2429,False,266
+psma_99278c16213e2429_2018-06-23,psma,99278c16213e2429,False,10514
+psma_9a8d486e8ddd0427_2021-03-20,psma,9a8d486e8ddd0427,False,22967
+psma_9a8d486e8ddd0427_2021-07-16,psma,9a8d486e8ddd0427,False,28664
+psma_9ca760d210e20f46_2015-08-07,psma,9ca760d210e20f46,False,7709
+psma_a13cf6d4d92a3d80_2020-03-27,psma,a13cf6d4d92a3d80,False,348
+psma_a3d54951d96f5563_2016-04-30,psma,a3d54951d96f5563,False,5
+psma_a3d54951d96f5563_2016-10-24,psma,a3d54951d96f5563,True,0
+psma_a5454c6c5eda4112_2020-10-16,psma,a5454c6c5eda4112,False,1292
+psma_a5454c6c5eda4112_2021-03-06,psma,a5454c6c5eda4112,False,4741
+psma_af293f5b5149087a_2016-06-19,psma,af293f5b5149087a,False,913
+psma_af293f5b5149087a_2017-09-09,psma,af293f5b5149087a,False,1366
+psma_b25df290eb7a867b_2019-09-23,psma,b25df290eb7a867b,False,530
+psma_b487a97686e64dbf_2019-07-08,psma,b487a97686e64dbf,False,40320
+psma_b487a97686e64dbf_2019-11-18,psma,b487a97686e64dbf,False,24573
+psma_b8e8c96ded38dc79_2015-05-15,psma,b8e8c96ded38dc79,False,214
+psma_b8e8c96ded38dc79_2015-10-04,psma,b8e8c96ded38dc79,False,93
+psma_ba5034e13e4c31f5_2019-07-05,psma,ba5034e13e4c31f5,False,57466
+psma_ba5034e13e4c31f5_2019-10-14,psma,ba5034e13e4c31f5,False,47053
+psma_bc6df739c0290965_2020-11-28,psma,bc6df739c0290965,True,0
+psma_bc70d4dbddba497e_2020-09-25,psma,bc70d4dbddba497e,False,30475
+psma_bc70d4dbddba497e_2021-01-30,psma,bc70d4dbddba497e,False,42222
+psma_bcd20c8fcb92d9cf_2019-05-11,psma,bcd20c8fcb92d9cf,False,63
+psma_c1aac5281cd6dedd_2018-03-23,psma,c1aac5281cd6dedd,True,0
+psma_c2c49ffc29ebf6fc_2019-09-20,psma,c2c49ffc29ebf6fc,False,1122
+psma_c605989163e81d3c_2019-02-15,psma,c605989163e81d3c,False,179
+psma_d0d4b360c767b075_2019-07-29,psma,d0d4b360c767b075,False,891
+psma_d0f877ac02b84ee6_2014-10-30,psma,d0f877ac02b84ee6,False,329
+psma_d0f877ac02b84ee6_2015-10-17,psma,d0f877ac02b84ee6,False,90
+psma_d38ec7d5180e7941_2014-12-20,psma,d38ec7d5180e7941,True,0
+psma_d3e72b0003097756_2018-09-24,psma,d3e72b0003097756,False,1752
+psma_dc822282f85e9b7b_2018-09-29,psma,dc822282f85e9b7b,False,50
+psma_dca89b53a183f8e5_2018-02-26,psma,dca89b53a183f8e5,False,3365
+psma_e2b34467658ec579_2017-06-09,psma,e2b34467658ec579,False,135
+psma_e88804f6e145e11a_2018-12-02,psma,e88804f6e145e11a,False,37
+psma_ec45934c2fa23c76_2019-08-05,psma,ec45934c2fa23c76,False,28202
+psma_ee01cba36afe0f56_2018-05-21,psma,ee01cba36afe0f56,False,218
+psma_ee01cba36afe0f56_2022-01-22,psma,ee01cba36afe0f56,True,0
+psma_ee01cba36afe0f56_2022-05-21,psma,ee01cba36afe0f56,True,0
+psma_f33cbe53d1aee5e8_2017-06-18,psma,f33cbe53d1aee5e8,False,3646
+psma_f33cbe53d1aee5e8_2018-01-13,psma,f33cbe53d1aee5e8,False,1922
+psma_f46740fcc3f44f10_2020-01-11,psma,f46740fcc3f44f10,False,21192
+psma_f46740fcc3f44f10_2020-05-22,psma,f46740fcc3f44f10,False,7066
+psma_fcae072067609bd2_2014-07-26,psma,fcae072067609bd2,False,404
+psma_fe15e4b0571c9233_2018-02-18,psma,fe15e4b0571c9233,False,7874
+psma_fe15e4b0571c9233_2018-07-13,psma,fe15e4b0571c9233,False,6702
