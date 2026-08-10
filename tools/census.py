@@ -120,6 +120,49 @@ class DatasetCensus:
                   "({:.1f} % of this tracer)".format(share))
             print()
 
+class BurdenCensus:
+    """Measures how many tumor voxels each study has, and writes a CSV table."""
+
+    def __init__(self, dataset_folder):
+        self.dataset_folder = dataset_folder
+        self.parser = FilenameParser()
+
+    def run(self, output_csv_path):
+        """Open every label file, count tumor voxels, save one row per study."""
+        pattern = os.path.join(self.dataset_folder, "labelsTr", "*.nii.gz")
+        label_files = sorted(glob.glob(pattern))
+
+        # We collect the rows first, then write them all at the end.
+        rows = []
+
+        for i, label_path in enumerate(label_files):
+            tracer, patient_id, study_label = self.parser.parse(label_path)
+
+            # Load the mask and count how many voxels are marked as tumor.
+            mask = np.asanyarray(nib.load(label_path).dataobj)
+            burden_voxels = int(mask.sum())
+
+            # A study is "empty" when it has zero tumor voxels.
+            is_empty = burden_voxels == 0
+
+            # case_id = the file name without the .nii.gz ending.
+            case_id = os.path.basename(label_path).replace(".nii.gz", "")
+
+            rows.append([case_id, tracer, patient_id, is_empty, burden_voxels])
+
+            # Heartbeat, so we can see it is alive.
+            if (i + 1) % 100 == 0:
+                print("  ...measured", i + 1, "of", len(label_files))
+
+        # Write the table to disk as a CSV file (comma separated values).
+        with open(output_csv_path, "w") as f:
+            f.write("case_id,tracer,patient_id,empty,burden_voxels\n")
+            for row in rows:
+                f.write("{},{},{},{},{}\n".format(row[0], row[1], row[2], row[3], row[4]))
+
+        print("Wrote", len(rows), "rows to", output_csv_path)
+
+
 
 def main():
     if len(sys.argv) < 2:
@@ -136,6 +179,9 @@ def main():
     print("=== Part 2: empty-label census (takes some minutes) ===")
     census.count_empty_labels()
 
+    print("=== Part 3: burden census -> CSV ===")
+    burden = BurdenCensus(sys.argv[1])
+    burden.run("burden_census.csv")
 
 if __name__ == "__main__":
     main()
