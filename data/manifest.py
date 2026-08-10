@@ -148,6 +148,111 @@ class ManifestBuilder:
         with open(file_path, "rb") as f:
             content = f.read()
         return hashlib.sha256(content).hexdigest()
+    
+
+
+class SubsetBuilder:
+    """Builds the ~400-study training subset from fold-0 TRAIN cases."""
+
+    def __init__(self, dataset_folder, census_csv_path):
+        self.dataset_folder = dataset_folder
+        self.census_csv_path = census_csv_path
+        # Different seed than the dev-40, so the two choices are independent.
+        random.seed(2026)
+
+    def load_train_case_ids(self):
+        """Case IDs the shipped model WAS trained on (fold-0 train list)."""
+        with open(self.dataset_folder + "/splits_final.json") as f:
+            splits = json.load(f)
+        return set(splits[0]["train"])
+
+    def load_rows(self, allowed_case_ids):
+        """Read census rows, keep only those in the allowed list."""
+        rows = []
+        with open(self.census_csv_path) as f:
+            for row in csv.DictReader(f):
+                if row["case_id"] in allowed_case_ids:
+                    row["burden_voxels"] = int(row["burden_voxels"])
+                    row["empty"] = (row["empty"] == "True")
+                    rows.append(row)
+        return rows
+
+    def group_by_patient(self, rows):
+        """Put all studies of one patient into one bucket."""
+        buckets = {}
+        for row in rows:
+            patient = row["patient_id"]
+            if patient not in buckets:
+                buckets[patient] = []
+            buckets[patient].append(row)
+        return buckets
+
+    def patient_is_empty(self, studies):
+        """A patient counts as 'empty' only if ALL their studies are empty."""
+        for study in studies:
+            if not study["empty"]:
+                return False
+        return True
+
+    def patient_burden(self, studies):
+        """Total tumor voxels across all studies of this patient."""
+        total = 0
+        for study in studies:
+            total = total + study["burden_voxels"]
+        return total
+
+    def pick_patients_until(self, patient_buckets, target_studies):
+        """Add whole patients (random order) until we reach the target size."""
+        # Sorted first = stable starting order; shuffle then uses the fixed seed.
+        patients = sorted(patient_buckets.keys())
+        random.shuffle(patients)
+
+        chosen_rows = []
+        for patient in patients:
+            if len(chosen_rows) >= target_studies:
+                break
+            chosen_rows = chosen_rows + patient_buckets[patient]
+        return chosen_rows
+
+    def build(self, targets):
+        """Build the subset. targets = dict like {('fdg','empty'): 128, ...}"""
+        train_ids = self.load_train_case_ids()
+        rows = self.load_rows(train_ids)
+
+        selected = []
+        for tracer in ["fdg", "psma"]:
+            tracer_rows = [r for r in rows if r["tracer"] == tracer]
+            buckets = self.group_by_patient(tracer_rows)
+
+            # Split patients into empty-patients and positive-patients.
+            empty_buckets = {}
+            positive_buckets = {}
+            for patient, studies in buckets.items():
+                if self.patient_is_empty(studies):
+                    empty_buckets[patient] = studies
+                else:
+                    positive_buckets[patient] = studies
+
+            # Take empties.
+            n_empty = targets[(tracer, "empty")]
+            selected = selected + self.pick_patients_until(empty_buckets, n_empty)
+
+            # Take positives, spread over tumor size: sort patients by burden,
+            # cut into three groups, take a third of the target from each.
+            n_pos = targets[(tracer, "positive")]
+            ordered = sorted(positive_buckets.keys(),
+                             key=lambda p: self.patient_burden(positive_buckets[p]))
+            third = len(ordered) // 3
+            groups = [ordered[:third], ordered[third:2 * third], ordered[2 * third:]]
+
+            per_group = n_pos // 3
+            for i, group in enumerate(groups):
+                # Last group takes the remainder, so nothing is lost to rounding.
+                want = per_group if i < 2 else n_pos - 2 * per_group
+                group_buckets = {p: positive_buckets[p] for p in group}
+                selected = selected + self.pick_patients_until(group_buckets, want)
+
+        return selected
 
 
 def main():
@@ -176,6 +281,21 @@ def main():
     output_path = "data/dev40_manifest.csv"
     builder.write_manifest(selected, output_path)
     print("SHA-256:", builder.fingerprint(output_path))
+        # ---- 400-study training subset ----
+    print()
+    print("Building 400-study subset...")
+    subset_builder = SubsetBuilder(dataset_folder, census_csv)
+    targets = {
+        ("fdg", "empty"): 128,
+        ("fdg", "positive"): 124,
+        ("psma", "empty"): 14,
+        ("psma", "positive"): 134,
+    }
+    subset = subset_builder.build(targets)
+
+    subset_path = "data/subset400_manifest.csv"
+    builder.write_manifest(subset, subset_path)
+    print("SHA-256:", builder.fingerprint(subset_path))
 
 
 if __name__ == "__main__":
