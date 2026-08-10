@@ -1,0 +1,41 @@
+case_id,tracer,patient_id,empty,burden_voxels
+fdg_2a41141775_09-24-2005-NA-PET-CT Ganzkoerper  primaer mit KM-94391,fdg,2a41141775,True,0
+fdg_323cc5aff8_11-09-2001-NA-Unspecified CT ABDOMEN-48314,fdg,323cc5aff8,False,14128
+fdg_402c061122_02-22-2003-NA-PET-CT Ganzkoerper nativ-88656,fdg,402c061122,True,0
+fdg_42e9f16c09_01-05-2003-NA-PET-CT Ganzkoerper  primaer mit KM-35445,fdg,42e9f16c09,False,7986
+fdg_4cc808d16f_06-11-2006-NA-PET-CT Ganzkoerper  primaer mit KM-36881,fdg,4cc808d16f,True,0
+fdg_58f276897e_06-19-2005-NA-PET-CT Ganzkoerper  primaer mit KM-96129,fdg,58f276897e,True,0
+fdg_5ac322455f_05-26-2003-NA-PET-CT Ganzkoerper  primaer mit KM-53199,fdg,5ac322455f,False,28368
+fdg_5e81863014_10-18-2002-NA-PET-CT Ganzkoerper  primaer mit KM-56073,fdg,5e81863014,True,0
+fdg_69aa8dbfd2_05-24-2003-NA-PET-CT Teilkoerper nativ-05834,fdg,69aa8dbfd2,True,0
+fdg_6e1dba94e8_11-15-2002-NA-PET-CT Ganzkoerper  primaer mit KM-36676,fdg,6e1dba94e8,True,0
+fdg_6e7c7f8087_03-23-2003-NA-PET-CT Ganzkoerper  primaer mit KM-20555,fdg,6e7c7f8087,False,25259
+fdg_74bbceaeeb_06-03-2005-NA-PET-CT Ganzkoerper  primaer mit KM-94697,fdg,74bbceaeeb,False,100
+fdg_8b14e6a819_01-29-2006-NA-PET-CT Ganzkoerper  primaer mit KM-76427,fdg,8b14e6a819,True,0
+fdg_901573a747_05-13-2005-NA-PET-CT Ganzkoerper  primaer mit KM-32417,fdg,901573a747,False,14690
+fdg_956520090b_11-01-2003-NA-PET-CT Ganzkoerper  primaer mit KM-86141,fdg,956520090b,True,0
+fdg_ae96f738c0_05-01-2003-NA-PET-CT Ganzkoerper  primaer mit KM-67749,fdg,ae96f738c0,False,2869
+fdg_bb45bfcffd_01-03-2003-NA-PET-CT Ganzkoerper  primaer mit KM-50107,fdg,bb45bfcffd,False,2927
+fdg_c38b168f1a_04-15-2006-NA-PET-CT Ganzkoerper  primaer mit KM-47644,fdg,c38b168f1a,True,0
+fdg_de118d7ab9_06-02-2001-NA-PET-CT Ganzkoerper  primaer mit KM-18077,fdg,de118d7ab9,False,1769
+fdg_efd619ecbf_02-23-2003-NA-PET-CT Ganzkoerper  primaer mit KM-27081,fdg,efd619ecbf,False,7159
+psma_0a3fdc59c5e700d8_2017-12-31,psma,0a3fdc59c5e700d8,False,318
+psma_0ec0e718244b2a79_2015-06-19,psma,0ec0e718244b2a79,False,20
+psma_14c16d0ce2b3229d_2020-02-22,psma,14c16d0ce2b3229d,False,25168
+psma_28f9ecc106933531_2015-04-27,psma,28f9ecc106933531,False,134
+psma_2a630b4c5627e34d_2020-08-28,psma,2a630b4c5627e34d,False,1458
+psma_3959d1c381a5bcd6_2015-11-12,psma,3959d1c381a5bcd6,False,8504
+psma_4fc4664327ba8d0b_2014-06-06,psma,4fc4664327ba8d0b,False,8127
+psma_5203bac8a9bfd9e2_2020-06-06,psma,5203bac8a9bfd9e2,False,3285
+psma_52ccf5db1b96158d_2020-10-30,psma,52ccf5db1b96158d,True,0
+psma_602ab51cfa8fae3b_2014-08-03,psma,602ab51cfa8fae3b,False,157
+psma_80d66794f885f503_2019-10-11,psma,80d66794f885f503,False,53768
+psma_90092e3de48644f1_2018-09-10,psma,90092e3de48644f1,False,55
+psma_940a0f71bdde52c5_2019-02-09,psma,940a0f71bdde52c5,False,152
+psma_9abd0bb6d4259d4e_2015-10-22,psma,9abd0bb6d4259d4e,False,619
+psma_ada3f9f15facc495_2019-01-18,psma,ada3f9f15facc495,True,0
+psma_ca36bd95b63289d0_2020-05-15,psma,ca36bd95b63289d0,False,416
+psma_d7032f7f9ec70157_2018-10-15,psma,d7032f7f9ec70157,False,2020
+psma_da0ed9952645bbac_2016-08-06,psma,da0ed9952645bbac,False,315
+psma_dee1112c5d1380f1_2018-10-06,psma,dee1112c5d1380f1,False,3257
+psma_ee0d631fa63961f2_2019-11-08,psma,ee0d631fa63961f2,False,182
